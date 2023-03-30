@@ -1,3 +1,7 @@
+
+##this file was just made to test while not editing the actual bintoascii file...
+
+
 def BinaryToDecimal(binary): 
     binary1 = binary 
     decimal, i, n = 0, 0, 0
