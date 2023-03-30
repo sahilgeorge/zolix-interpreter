@@ -1,6 +1,6 @@
 ## Zolix interpreter.
 ## By sahilgeorge
-## 
+## URL to social media : https://www.beacons.ai/sahilgeorge
 
 ##defining some variables...
 commands = ["exit", "help", "ver", "hash", "bta", "bintoascii" ]
